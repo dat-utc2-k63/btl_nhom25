@@ -46,7 +46,7 @@ void add(Tuthien *tuthien) {
     }
     printf("Nhap thanh cong!\n");
 }
-
+// chỉnh sửa thông tin
 void edit(Tuthien *tuthien) {
     int stt;
     printf("nhap stt nguoi can sua : ");
